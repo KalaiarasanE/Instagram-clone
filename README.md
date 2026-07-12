@@ -18,8 +18,6 @@ A fully responsive Instagram-inspired social media platform frontend clone featu
 
 ## 📸 Screenshots
 
-### 🖥️ Desktop View
-
 ## 🖥️ Desktop View
 
 <p align="center">
