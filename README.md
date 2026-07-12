@@ -1,66 +1,135 @@
 <div align="center">
 
-# Instagram UI Clone
+# 📸 Instagram UI Clone
 
-<p align="center">The feed, the stories bar, the Reels player, and Direct Messages — rebuilt from scratch in React.</p>
-<p align="center">![Instagram UI Clone Preview](public/images/instagram_hero.jpg)</p>
-<p align="center">🔗🔗 <b><a href="https://kalaiarasane.github.io/Instagram-clone/">EXPERIENCE IT LIVE</a></b></p>
-
-> ⚠️ **Educational UI clone for learning purposes only — not affiliated with Instagram / Meta.** Placeholder images and invented usernames only.
+<p align="center">
+A fully responsive Instagram-inspired social media platform frontend clone featuring stories, reels, post interactions, direct messaging, profile management, and explore sections.
+</p>
 
 </div>
 
 ---
 
-## ✨ The showpieces
-- Stories bar with the signature **gradient rings** — pure CSS active states
-- **Like button that works** — toggles red + updates the count dynamically (React state)
-- Profile page with the classic **3-column photo grid** for posts, saves, and tags
-- Interactive Direct Messaging drawer with active chat room switching
+## 🌐 Live Demo
 
-## 🧱🧱 Sections
-Feed (stories bar → post cards) · Explore Grid · Reels View · Messages Pane · Activity Notifications · Profile (header → stats → photo grid) · Create Post Suite
-
-## 🛠🛠 Stack
-React (Vite) · CSS3 · Vanilla JS interactions (Antigravity AI / Gemini 3.5 Flash where AI helped) · GitHub Pages
-
-## 🎨🎨 Inspired by
-- [Instagram Web](https://www.instagram.com) design system.
-- Dark mode templates and layouts on [Refero](https://refero.design).
-
-## 🤖🤖 AI usage · 📚📚 What I learned
-
-### AI Usage
-- **Antigravity AI (Gemini 3.5 Flash)** was utilized to structure the state design patterns for mock database tables, format CSS layout structures for the feed layouts, and generate the hero preview mockup.
-
-### What I Learned
-- **Custom React Router Shell**: Built a lightweight routing system using custom React Context providers and history pushstate API. This avoids standard heavy React Router dependencies and allows page-to-page navigation dynamically while maintaining proper browser back/forward history.
-- **Responsive Layout Transitioning**: Structuring styles to transition the layout shell seamlessly between a left-hand desktop sidebar (`Sidebar.jsx`) and a bottom mobile navigation bar (`BottomNav.jsx`) depending on CSS viewport queries.
-- **Mock Feed State Synchronization**: Implemented state propagation where creating a post in the "Create" tab pushes new items into the common feed state array, instantly updating the Feed without page refresh.
+**GitHub Pages:** https://kalaiarasane.github.io/Instagram-Clone/
 
 ---
 
-## 🎓🎓 About TAP Academy
+## 📸 Screenshots
 
-This project was built during my frontend training at **[TAP Academy](https://thetapacademy.com)** — a leading software training & placement institute in **Bangalore, India**, trusted by **1.5+ lakh students**.
+### 🖥️ Desktop View
 
-**Why students choose TAP Academy:**
-- 🚀🚀 **Get placed in 60 days** — dedicated placement track with daily placement drives
-- 🥽🥽 **Augmented Reality (AR) classrooms** — concepts you can see, not just read
-- 🎤🎤 **Weekly mock interviews** with real-time feedback
-- 👨👨🏫🏫 **1-on-1 mentorship** and round-the-clock doubt support
-- 💻💻 Courses in **Java, Python, Full Stack Development, Data Science & AI**
+<img src="YOUR_DESKTOP_SCREENSHOT_URL" alt="Desktop Screenshot" width="100%">
 
-### ❓ FAQ
+### 📱 Mobile View
 
-**What is TAP Academy?**
-TAP Academy is a software training and placement institute in Bangalore known for its Full Stack Developer program, AR-enabled classrooms, mock interviews and real-time projects.
-
-**Does TAP Academy provide placement support?**
-Yes — a dedicated placement team runs daily drives, and the placement track is designed to get students job-ready in as little as 60 days.
-
-**Where can I learn more?**
-🔗🔗 [Website](https://thetapacademy.com) · [Placements](https://thetapacademy.com/placements) · [LinkedIn](https://in.linkedin.com/company/thetapacademy) · [YouTube](https://www.youtube.com/tapacademy)
+<img src="YOUR_MOBILE_SCREENSHOT_URL" alt="Mobile Screenshot" width="35%">
 
 ---
-*⭐ If you liked this project, star the repo — it helps more students discover it.*
+
+## ✨ Features
+
+- Responsive UI
+- Instagram-style Stories with animated gradient rings
+- Interactive Feed with Like, Comment, Share, and Save functionality
+- Reels section with vertical scrolling interface
+- Explore page featuring responsive photo grid layouts
+- Direct Messaging interface with active chat switching
+- User Profile with posts, saved collections, tagged photos, and statistics
+- Create Post interface with image preview simulation
+- Notifications panel
+- Cross-browser compatibility
+- Clean and modern design
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript (ES6)
+- Responsive Design
+- Git & GitHub
+- AI-assisted development
+
+---
+
+## 🎨 Design References
+
+- Refero – https://refero.design/
+- Godly – https://godly.website/
+- Aceternity UI – https://ui.aceternity.com/
+- Instagram Web Design – https://www.instagram.com/
+
+---
+
+## 🤖 AI Tools Used
+
+This project was developed with AI assistance for:
+
+- UI layout ideas
+- Responsive component generation
+- React component architecture
+- JavaScript functionality
+- CSS optimization
+- Debugging
+- Code refactoring
+- Documentation improvements
+
+---
+
+## 📚 What I Learned
+
+- Building reusable React components for scalable social media interfaces.
+- Managing application state efficiently for posts, stories, likes, and messaging.
+- Designing responsive layouts that seamlessly adapt between desktop and mobile experiences.
+
+---
+
+# 🚀 About TAP Academy
+
+TAP Academy is an industry-focused training institute that helps students become job-ready software engineers through hands-on learning, real-world projects, mock interviews, and placement preparation.
+
+### Why TAP Academy?
+
+- Placement-focused training
+- Real-world project development
+- AR-enabled classrooms
+- Daily coding practice
+- Mock interviews
+- Industry mentors
+- Resume building
+- Git & GitHub workflow
+- Frontend and Full Stack Development
+- Career guidance
+- Placement support within 60 days for eligible students
+
+Learn more:
+
+https://thetapacademy.com/
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created purely for educational purposes to practice frontend development skills.
+
+It is a UI/UX clone inspired by Instagram. All trademarks, logos, images, and brand names belong to their respective owners.
+
+No copyright infringement is intended, and this project is not affiliated with or endorsed by Meta or Instagram.
+
+---
+
+## 📥 Installation
+
+```bash
+git clone https://github.com/KalaiarasanE/Instagram-Clone.git
+
+cd Instagram-Clone
+
+open index.html
+```
+
+---
