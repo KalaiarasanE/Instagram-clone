@@ -12,7 +12,7 @@ A fully responsive Instagram-inspired social media platform frontend clone featu
 
 ## 🌐 Live Demo
 
-**GitHub Pages:** https://kalaiarasane.github.io/Instagram-Clone/
+**GitHub Pages:** https://instagram-clone-tau-five.vercel.app
 
 ---
 
@@ -20,11 +20,13 @@ A fully responsive Instagram-inspired social media platform frontend clone featu
 
 ### 🖥️ Desktop View
 
-<img src="YOUR_DESKTOP_SCREENSHOT_URL" alt="Desktop Screenshot" width="100%">
+<img width="1901" height="1092" alt="Screenshot 2026-07-12 234939" src="https://github.com/user-attachments/assets/8f94dac5-2237-4082-961e-650641be7814"
+" alt="Desktop Screenshot" width="100%">
 
 ### 📱 Mobile View
 
-<img src="YOUR_MOBILE_SCREENSHOT_URL" alt="Mobile Screenshot" width="35%">
+<img width="503" height="982" alt="Screenshot 2026-07-12 235025" src="https://github.com/user-attachments/assets/fc794d84-9bfb-4ad9-8514-609c962b079b" 
+" alt="Mobile Screenshot" width="35%">
 
 ---
 
