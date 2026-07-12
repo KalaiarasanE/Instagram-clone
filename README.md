@@ -2,32 +2,31 @@
 
 # Instagram UI Clone
 
-### Connect, share, and view the world in dark mode.
+<p align="center">The feed, the stories bar, the Reels player, and Direct Messages — rebuilt from scratch in React.</p>
+<p align="center">![Instagram UI Clone Preview](public/images/instagram_hero.jpg)</p>
+<p align="center">🔗🔗 <b><a href="https://kalaiarasane.github.io/Instagram-clone/">EXPERIENCE IT LIVE</a></b></p>
 
-**[ View the live experience → ](https://kalaiarasane.github.io/Instagram-clone/)**
+> ⚠️ **Educational UI clone for learning purposes only — not affiliated with Instagram / Meta.** Placeholder images and invented usernames only.
 
 </div>
 
 ---
 
-## The page
-- **Hero** — Modern brand splash screen loading sequence, login and signup forms with interactive input validation.
-- **Features / specs** — Home feed featuring a stories tray, customizable post card list, and right-hand suggestions panel.
-- **Gallery** — Explore tab displaying a grid layout of items and profile tab showing a custom grid of user posts, saved items, and tags.
-- **Reviews** — Direct Messages (DM) pane allowing users to switch active chat rooms and engage in mock real-time chats.
-- **Price + Buy Now** — Post creation modal ("Create" tab) with local file uploads and a captions editor.
-- **FAQ + Footer** — Accordion FAQ detailing TAP Academy courses and placement track.
+## ✨ The showpieces
+- Stories bar with the signature **gradient rings** — pure CSS active states
+- **Like button that works** — toggles red + updates the count dynamically (React state)
+- Profile page with the classic **3-column photo grid** for posts, saves, and tags
+- Interactive Direct Messaging drawer with active chat room switching
 
-## Screenshots
-![Instagram UI Clone Preview](public/images/instagram_hero.jpg)
+## 🧱🧱 Sections
+Feed (stories bar → post cards) · Explore Grid · Reels View · Messages Pane · Activity Notifications · Profile (header → stats → photo grid) · Create Post Suite
 
-## Design notes
-- **Product chosen**: Social Media Platform UI (Instagram).
-- **References**: Modeled directly after the web experience of [Instagram](https://www.instagram.com) and dark-mode styling on [Refero](https://refero.design).
-- **Signature effect recreated**: Smooth sidebar active state transitions, custom lightweight routing transitions, modal post uploads, and active chat indicators.
+## 🛠🛠 Stack
+React (Vite) · CSS3 · Vanilla JS interactions (Antigravity AI / Gemini 3.5 Flash where AI helped) · GitHub Pages
 
-## Stack
-React (Vite) · CSS3 · AI-assisted animations (Gemini 3.5 Flash) · GitHub Pages
+## 🎨🎨 Inspired by
+- [Instagram Web](https://www.instagram.com) design system.
+- Dark mode templates and layouts on [Refero](https://refero.design).
 
 ## 🤖🤖 AI usage · 📚📚 What I learned
 
@@ -48,7 +47,8 @@ This project was built during my frontend training at **[TAP Academy](https://th
 **Why students choose TAP Academy:**
 - 🚀🚀 **Get placed in 60 days** — dedicated placement track with daily placement drives
 - 🥽🥽 **Augmented Reality (AR) classrooms** — concepts you can see, not just read
-- 🎤🎤 **Weekly mock interviews** 👨👨🏫🏫 **1-on-1 mentorship** and round-the-clock doubt support
+- 🎤🎤 **Weekly mock interviews** with real-time feedback
+- 👨👨🏫🏫 **1-on-1 mentorship** and round-the-clock doubt support
 - 💻💻 Courses in **Java, Python, Full Stack Development, Data Science & AI**
 
 ### ❓ FAQ
