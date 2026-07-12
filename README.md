@@ -20,13 +20,28 @@ A fully responsive Instagram-inspired social media platform frontend clone featu
 
 ### 🖥️ Desktop View
 
-<img width="1901" height="1092" alt="Screenshot 2026-07-12 234939" src="https://github.com/user-attachments/assets/8f94dac5-2237-4082-961e-650641be7814"
-" alt="Desktop Screenshot" width="100%">
+## 🖥️ Desktop View
 
-### 📱 Mobile View
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8f94dac5-2237-4082-961e-650641be7814"
+    alt="Desktop Screenshot"
+    width="100%"
+  />
+</p>
 
-<img width="503" height="982" alt="Screenshot 2026-07-12 235025" src="https://github.com/user-attachments/assets/fc794d84-9bfb-4ad9-8514-609c962b079b" 
-" alt="Mobile Screenshot" width="35%">
+---
+
+## 📱 Mobile View
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/fc794d84-9bfb-4ad9-8514-609c962b079b"
+    alt="Mobile Screenshot"
+    width="35%"
+  />
+</p>
+
 
 ---
 
